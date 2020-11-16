@@ -1,0 +1,4 @@
+﻿  MultiThread.cpp
+C:\Users\Радимир\source\repos\MultiThread\MultiThread\MultiThread.cpp(105,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Радимир\source\repos\MultiThread\MultiThread\MultiThread.cpp(128,30): warning C4018: <: несоответствие типов со знаком и без знака
+  MultiThread.vcxproj -> C:\Users\Радимир\source\repos\MultiThread\Debug\MultiThread.exe
